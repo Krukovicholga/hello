@@ -1,6 +1,8 @@
 ﻿Новая строка
 Другая строка
+<<<<<<< HEAD
 
 Hello, Git!
 Hello, Git rebase!
+
 
